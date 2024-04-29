@@ -118,14 +118,14 @@ a{
 
 #visits {
   position: absolute;
-  top: 60%;
+  top: 70%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 
 #ad {
   position: absolute;
-  top: 80%;
+  top: 90%;
   left: 50%;
   transform: translate(-50%, -50%);
 }

@@ -12,6 +12,15 @@ body {
   text-align: center;
 }
 
+#background-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+}
+
 #header h1 {
   margin: 0;
   font-size: 24px;
@@ -56,7 +65,7 @@ body {
   background-color: #222;
   text-align: center;
   color: #fff;
-  cursor:cell;
+  cursor:crosshair;
 }
 
 a{

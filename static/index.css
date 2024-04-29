@@ -26,7 +26,6 @@ body {
   font-family: 'Kanit', sans-serif;
   color: #fff;
   letter-spacing: 2px;
-  text-transform: uppercase;
 }
 
 #header img {
@@ -43,7 +42,6 @@ body {
 #content h1 {
   font-size: 34px;
   cursor:pointer;
-  text-transform: uppercase;
   font-family: 'Kanit', sans-serif;
   line-height: 1.5;
   margin-bottom: 20px;

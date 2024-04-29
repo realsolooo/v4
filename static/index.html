@@ -18,33 +18,29 @@
       <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
       <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
       <style>
-         #video-top, #video-bottom {
+         #video-background {
          position: fixed;
+         right: 0;
+         bottom: 0;
          min-width: 100%;
-         min-height: 50%;
+         min-height: 100%;
          width: auto;
          height: auto;
          z-index: -1;
          background-size: cover;
          }
-         #video-top {
-         top: 0;
-         }
-         #video-bottom {
-         bottom: 0;
-         }
       </style>
    </head>
    <body>
-      <video autoplay muted loop id="video-top">
-         <source src="0429.mp4" type="video/mp4">
-         Your browser does not support the video tag.
-      </video>
-      <video autoplay muted loop id="video-bottom">
+      <video autoplay muted loop id="video-background">
          <source src="0429.mp4" type="video/mp4">
          Your browser does not support the video tag.
       </video>
       <div id="header">
+         <video autoplay muted loop id="video-background">
+         <source src="0429.mp4" type="video/mp4">
+         Your browser does not support the video tag.
+      </video>
          <img src="nobg.png" alt="Logo">
       </div>
       <div id="content">
@@ -57,7 +53,7 @@
             <p id="uv-error"></p>
             <pre id="uv-error-code"></pre>
          </div>
-         <a href="https://discord.gg/zJhPJYJCeJ" target="_blank" class="fa-brands fa-discord"></a>
+         <a href="https://discord.gg/eG3Mb7TRVH" target="_blank" class="fa-brands fa-discord"></a>
          <a href="https://github.com/subtoszvy/Formula-Proxy" target="_blank"class="fa-brands fa-github"></a>
          <a href="https://starttiw.org" target="_blank"class="fa-solid fa-cloud"></a>
       </div>

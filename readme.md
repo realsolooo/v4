@@ -30,10 +30,6 @@ You can host this on any static hosting platoform. <br>
 [![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/subtoszvy/Formula-Proxy)
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/subtoszvy/Formula-Proxy)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 
 ### Disclamer
 We take no credit for the making of UV. Ultraviolet is made by Titanium Network, and therefore isn't ours. This is just a modification built to it to make it static, allowing you to deploy it on simple hosting platofrms like vercel, netlify, onrender static, and etc.

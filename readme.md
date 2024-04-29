@@ -2,7 +2,7 @@
 
 Modified Version of the <a href="https://github.com/titaniumnetwork-dev/Ultraviolet-App" target="blank">Ultraviolet</a> backend.
 <center> Join our discord <a href="https://discord.com/invite/XctyeqGGt4" target="_blank" style="text-decoration:none;"> here </a><br>
-<a> <img src="static/logo.gif" style="width:25%; align-self:center;"> </img> </a> 
+<a> <img src="static/Formula.gif" style="width:25%; align-self:center;"> </img> </a> 
 </center> <br>
 
 ## Features
